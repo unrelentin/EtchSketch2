@@ -3,6 +3,21 @@
     font-weight: bold;
     display: flex;
     justify-content: center;
+    
+}
+
+.askSquare {
+    display: flex;
+    justify-content: flex-end;
+    background-color: deepskyblue;
+    color: white;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 15px;
+    margin-left: 680px;
+    margin-right: 300px;
+    margin-top: 50px;
+
 }
 
 .container {
@@ -10,5 +25,5 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
